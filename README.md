@@ -1,2 +1,2 @@
-# Socket-calculator
-This is an exemple of a socket stream calculator based on sys-sock biblio .
+# Socket-streamer
+This is an exemple of a socket streamer based on sys-sock biblio .
